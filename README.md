@@ -16,5 +16,5 @@ Rest API **[API Reservandonos Dev](https://dev.reservandonos.com/)**
 <img src="https://github.com/rofviv/reservandonos-challenge/blob/master/assets/screenshots/screen3.png?raw=true" alt="drawing" width="200"/>
 </p>
 
-**[Download APK](https://github.com/rofviv/reservandonos-challenge/blob/master/assets/apk/)**
+<!-- **[Download APK](https://github.com/rofviv/reservandonos-challenge/blob/master/assets/apk/)** -->
 
